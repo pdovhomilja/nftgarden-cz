@@ -11,6 +11,9 @@ export default function Home() {
         <p className="text-white">A place to grow your NFTs</p>
         <p>We are working on it!</p>
       </div>
+      <div>
+        <p>We are running on coolify</p>
+      </div>
     </main>
   );
 }
